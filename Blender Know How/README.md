@@ -16,4 +16,4 @@ The tutorials are available [here](https://www.youtube.com/channel/UCeOLSinEqt5m
 
 | ![rubik's cube](rubiksCube.png) | 
 |:--:|
-| *Code [rubiksCube.py](rubiksCube.py)* |
+| *Code [rubiksCube.py](rubiksCube.py) and [rubiksCubeForLoop.py](rubiksCubeForLoop.py)* |
