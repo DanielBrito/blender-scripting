@@ -1,5 +1,5 @@
-# Python Crash Course for Blender (Curtis Holt)
+# Python Crash Course for Blender
 
-The tutorial to generate this result is available [here](https://www.youtube.com/watch?v=XqX5wh4YeRw).
+## Result:
 
 ![modeling result](result.png)
